@@ -1,2 +1,6 @@
 flask
 qrcode
+pillow
+bytesbufio
+Werkzeug
+gunicorn
